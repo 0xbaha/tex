@@ -1,7 +1,7 @@
 # TeX Template
 
 ## Author
-Baharuddin Aziz "coding@baha.web.id"
+Baha ID "bahaxid@pm.me"
 
 ## Introduction
 Repository ini berisi kumpulan _template_ **LaTeX**.
