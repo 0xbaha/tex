@@ -1,7 +1,7 @@
 # TeX Template
 
 ## Author
-Baha ID "bahaxid@gmail.com"
+[Baha ID](https://github.com/bahaxid)
 
 ## Introduction
 Repository ini berisi kumpulan _template_ **LaTeX**.
